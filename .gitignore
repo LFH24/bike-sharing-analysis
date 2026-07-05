@@ -20,9 +20,8 @@ venv/
 .DS_Store
 Thumbs.db
 
-# Output (keep submission.csv tracked for reference)
-output/submission.csv
-output/kaggle-score.png
+# Output (all generated files)
+output/
 
 # Data (raw data shouldn't be in git)
 data/train.csv
