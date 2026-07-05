@@ -31,7 +31,7 @@
 第 5 章 · Baseline     →  TimeSeriesSplit + 4 模型 baseline + 直接预测 vs 分头预测对比
 第 6 章 · 深度调参     →  XGBoost / LightGBM / RF RandomizedSearchCV（分头优化）
 第 7 章 · 集成         →  StackingRegressor（XGB + LGB + RF → Ridge）+ 三策略对比
-第 8 章 · 复盘         →  特征重要性 + SHAP + 城市出行洞察 + 框架迁移
+第 8 章 · 复盘         →  特征重要性 + 城市出行洞察 + 框架迁移
 ```
 
 ---
